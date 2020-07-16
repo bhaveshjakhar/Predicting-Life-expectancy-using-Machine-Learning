@@ -1,0 +1,41 @@
+PREDICTING LIFE EXPECTANCY USING MACHINE LEARNING
+
+PROJECT SUMMARY
+
+It is a Regression Machine Learning project which is aimed at predicting average life expectancy rate of various countries taking in account of several feature which serve as a historical data such as Regional variations, Economic circumstances, Sex ratios, Mental illness, Physical illness, Education, Year of their birth and other demographic factors.
+This problem statement provides a way to predict average life expectancy of people living in the country, expenditure on healthcare system, and some specific disease related deaths happened in the country.
+
+PROJECT REQUIREMENT
+
+An appropriate machine learning model. Here linear regression model is used as it incorporates various features and the predictions are the continuos values.
+Python programming language.
+Appropriate cloud platform such as IBM.
+Libraries would also be required such as NUMPY, PANDAS, etc.
+Tool to generate URL for the model to be accessible globally.
+
+FUNCTIONAL REQUIREMENTS
+
+
+  At the FRONT-end, a webpage taking the necessary inputs from the user to implement the designed model.
+
+At the BACK-end, the input get processed and finally gives the desired output, here the predicting average life expectancy.
+
+Technical / Software Requirements
+Accuracy of the sysytem might not be the 100% , but gives a fair output which is much reliable.
+Its is simple to access and is manageable.
+Good internet connection.
+Cloud.
+Python/R IDE.
+
+
+PROJECT DELIVERABLES
+
+This project delivers the predicted average life expectancy based on the input provided.
+
+PROJECT TEAM
+
+Individual person.
+
+PROJECT SCHEDULE
+
+30 Days.
